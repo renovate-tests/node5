@@ -1,2 +1,2 @@
-FROM renovate/renovate:32.0.0
+FROM renovate/renovate:32.66.3
 RUN something
